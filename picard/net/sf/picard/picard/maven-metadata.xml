@@ -2,11 +2,11 @@
 <metadata>
   <groupId>net.sf.picard</groupId>
   <artifactId>picard</artifactId>
-  <version>1.85-SNAPSHOT</version>
+  <version>1.86-SNAPSHOT</version>
   <versioning>
     <versions>
-      <version>1.85-SNAPSHOT</version>
+      <version>1.86-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20130222224306</lastUpdated>
+    <lastUpdated>20130225212505</lastUpdated>
   </versioning>
 </metadata>
