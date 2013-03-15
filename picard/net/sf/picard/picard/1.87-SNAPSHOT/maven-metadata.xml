@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.sf.picard</groupId>
+  <artifactId>picard</artifactId>
+  <version>1.87-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130315.183251</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130315183251</lastUpdated>
+  </versioning>
+</metadata>
